@@ -1,0 +1,5 @@
+Flask
+werkzeug
+pandas
+PyMuPDF
+pdfminer.six
